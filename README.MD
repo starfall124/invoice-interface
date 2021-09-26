@@ -1,11 +1,16 @@
 # invoice-interface
 
+This project is a simple Invoice Create Project and was generated with [superplate](https://github.com/pankod/superplate).
 
-This project was generated with [superplate](https://github.com/pankod/superplate).
+## Features
 
-## Getting Started
-
-superplate is a Next.js all-in-one project generator. Create your project with the tools you need without spending hours on setting them up.
+-   **React**
+-   **Next**
+-   **TypeScript**
+-   **Ant Design**
+-   **SASS/SCSS**
+-   **ESLint**
+-   **Prettier**
 
 ## Available Scripts
 
@@ -31,13 +36,11 @@ superplate is a Next.js all-in-one project generator. Create your project with t
 
 To learn more about **superplate**, please check out the [Documentation](https://github.com/pankod/superplate).
 
-
 ### **Ant Design**
 
 A design system for enterprise-level products. Create an efficient and enjoyable work experience.
 
 [Go To Documentation](https://ant.design/docs/react/introduce)
-
 
 ### **SASS/SCSS**
 
@@ -45,22 +48,14 @@ Sass is a stylesheet language that’s compiled to CSS. It allows you to use var
 
 [Go To Documentation](https://sass-lang.com/documentation)
 
-
 ### **ESLint**
 
 A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.
 
 [Go To Documentation](https://eslint.org/docs/user-guide/getting-started)
 
-
 ### **Prettier**
 
 An opinionated code formatter; Supports many languages; Integrates with most editors.
 
 [Go To Documentation](https://prettier.io/docs/en/index.html)
-
-
-
-## License
-
-MIT
