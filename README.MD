@@ -14,6 +14,12 @@ This project is a simple Invoice Create Project and was generated with [superpla
 
 ## Available Scripts
 
+### Install all dependencies.
+
+```bash
+    yarn install
+```
+
 ### Running the development server.
 
 ```bash
