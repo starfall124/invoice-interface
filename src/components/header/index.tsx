@@ -1,11 +1,17 @@
 import React from "react";
 
-import { Logo } from "@components";
+import styles from "./header.module.scss";
 
-export const Header: React.FC = () => {
+export type IHeader = {
+    title: string;
+    description: string;
+};
+
+export const Header: React.FC<IHeader> = ({ title, description }) => {
     return (
-        <div style={{ backgroundColor: "#20232a", textAlign: "center" }}>
-            <Logo />
+        <div className={styles.header}>
+            <h1 className={styles.header__title}>{title}</h1>
+            <p className={styles.header__description}>{description}</p>
         </div>
     );
 };
